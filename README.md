@@ -4,4 +4,9 @@ About Me
 
 Languages and Tools
 
+![Flutter](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
+![Flutter](https://img.shields.io/badge/Elasticsearch-090909?style=for-the-badge&logo=Elasticsearch&logoColor=e83e8c)
+![Flutter](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=e83e8c)
+
+
 Follow Me
