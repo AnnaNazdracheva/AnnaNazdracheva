@@ -1,6 +1,6 @@
 [![Header](https://github.com/AnnaNazdracheva/AnnaNazdracheva/blob/main/assets/image_2022_10_28T12_20_44_709Z.png)](https://www.linkedin.com/in/anna-nazdracheva)
 
-About Me
+I'm a QA Engineer.
 
 Languages and Tools
 
@@ -10,7 +10,6 @@ Languages and Tools
 ![Flutter](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![Flutter](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=e83e8c)
 ![Flutter](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=GIT&logoColor=#FFFFFFA)
-![Flutter](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=DEVTOOLS&logoColor=e83e8c)
 ![Flutter](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=09934E)
 ![Flutter](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=09934E)
 ![Flutter](https://img.shields.io/badge/KIBANA-090909?style=for-the-badge&logo=KIBANA&logoColor=e83e8c)
